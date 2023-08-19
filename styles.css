@@ -151,7 +151,7 @@ h1 {
 .tabs {}
 
 .container {
-    padding: 4rem 0;
+    padding: 10rem 0;
     display: flex;
     align-items: center;
     flex-direction: column;
